@@ -104,7 +104,7 @@
                                         Coworking and Office space
                                     </div>
                                     <div class="tp-caption sfr stl tp-resizeme" data-x="center" data-hoffset="-15" data-y="320" data-speed="300" data-start="1800" data-easing="easeInOut">
-                                        <a class="btn btn-green tp-resizeme" href="projects-3.html">Book a tour</a>
+                                        <button type="button" class="btn btn-green tp-resizeme" data-toggle="modal" data-target="#SilverModal">Book a tour</button>
                                     </div>
                                 </li>
                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="500">
@@ -117,7 +117,7 @@
                                         Office Space?
                                     </div>
                                     <div class="tp-caption sfr stl tp-resizeme" data-x="center" data-hoffset="-15" data-y="320" data-speed="300" data-start="1800" data-easing="easeInOut">
-                                        <a class="btn btn-green tp-resizeme" href="projects-3.html">Book a tour</a>
+                                        <button type="button" class="btn btn-green tp-resizeme" data-toggle="modal" data-target="#SilverModal">Book a tour</button>
                                     </div>
                                 </li>
                             </ul>
@@ -272,7 +272,7 @@
                                     <li>-</li>
                                 </ul>
                                 <div class="action-plan">
-                                    <a href="#" class="btn btn-color">Join Now</a>
+                                    <button type="button" class="btn btn-color2" data-toggle="modal" data-target="#FreeModal">Join Now</button>
                                 </div>
                             </div>
                         </div>
@@ -291,8 +291,8 @@
                                     <li>Community Managers</li>
                                     <li>-</li>
                                 </ul>
-                                <div class="action-plan">
-                                    <a href="#" class="btn btn-color">Join Now</a>
+                                <div class="action-plan">                                    
+                                    <button type="button" class="btn btn-color2" data-toggle="modal" data-target="#SilverModal">Join Now</button>
                                 </div>
                             </div>
                         </div>
@@ -312,7 +312,7 @@
                                     <li>Guest Reception</li>
                                 </ul>
                                 <div class="action-plan">
-                                    <a href="#" class="btn btn-color2">Join Now</a>
+                                    <button type="button" class="btn btn-color2" data-toggle="modal" data-target="#GoldModal">Join Now</button>
                                 </div>
                             </div>
                         </div>
@@ -332,7 +332,7 @@
                                     <li>Guest Reception</li>
                                 </ul>
                                 <div class="action-plan">
-                                    <a href="#" class="btn btn-color2">Ask price</a>
+                                    <button type="button" class="btn btn-color2" data-toggle="modal" data-target="#TeamModal">Ask price</button>
                                 </div>
                             </div>
                         </div>
@@ -580,8 +580,173 @@
         </footer>
         <!-- footer end -->
     </div>
+
+    <!-- Modals -->
+    <div class="modal fade custom-modal" id="FreeModal" tabindex="-1" role="dialog" aria-labelledby="FreeModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Free</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">Please fill out the form and our manager will get back asap.</p>
+                    <form>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="first-name" placeholder="First Name" name="first-name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="last-name" placeholder="Last Name" name="last-name">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" id="your-email" placeholder="Your Email" name="your-email">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="phone" class="form-control" id="phone-number" placeholder="Phone Number" name="phone-number">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <textarea class="form-control" id="message-text" name="message-text" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-blue">Send message</button>
+                </div>
+          </div>
+        </div>
+    </div>
+    <div class="modal fade custom-modal" id="SilverModal" tabindex="-1" role="dialog" aria-labelledby="SilverModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Silver</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">Please fill out the form and our manager will get back asap.</p>
+                    <form>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="first-name" placeholder="First Name" name="first-name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="last-name" placeholder="Last Name" name="last-name">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" id="your-email" placeholder="Your Email" name="your-email">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="phone" class="form-control" id="phone-number" placeholder="Phone Number" name="phone-number">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <textarea class="form-control" id="message-text" name="message-text" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-blue">Send message</button>
+                </div>
+          </div>
+        </div>
+    </div>
+    <div class="modal fade custom-modal" id="GoldModal" tabindex="-1" role="dialog" aria-labelledby="GoldModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Gold</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">Please fill out the form and our manager will get back asap.</p>
+                    <form>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="first-name" placeholder="First Name" name="first-name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="last-name" placeholder="Last Name" name="last-name">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" id="your-email" placeholder="Your Email" name="your-email">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="phone" class="form-control" id="phone-number" placeholder="Phone Number" name="phone-number">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <textarea class="form-control" id="message-text" name="message-text" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-blue">Send message</button>
+                </div>
+          </div>
+        </div>
+    </div>
+    <div class="modal fade custom-modal" id="TeamModal" tabindex="-1" role="dialog" aria-labelledby="TeamModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Team</h4>
+                </div>
+                <div class="modal-body">
+                    <p class="text-center">Please fill out the form and our manager will get back asap.</p>
+                    <form>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="first-name" placeholder="First Name" name="first-name">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="text" class="form-control" id="last-name" placeholder="Last Name" name="last-name">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input type="email" class="form-control" id="your-email" placeholder="Your Email" name="your-email">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="phone" class="form-control" id="phone-number" placeholder="Phone Number" name="phone-number">
+                            </div>
+                            <div class="form-group col-md-12">
+                                <textarea class="form-control" id="message-text" name="message-text" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-blue">Send message</button>
+                </div>
+          </div>
+        </div>
+    </div>
+
     <!-- Jquery -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
+    <!-- bootstrap js -->
+    <script type="text/javascript" src="js/bootstrap.js"></script>
     <script type="text/javascript" src="js/classie.js"></script>
     <!-- wow animate js -->
     <script type="text/javascript" src="js/wow.js"></script>
