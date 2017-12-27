@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------*/
 /* Google font ------------------
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-family: 'Arial', sans-serif;
 
 */
@@ -56,7 +56,7 @@ img {
 
 a {
     color: #2ebd7f;
-    font-family: "Raleway",Arial, sans-serif;
+    font-family: "Roboto",Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -90,7 +90,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #333;
     font-weight: 700;
     text-transform: uppercase;
@@ -128,7 +128,7 @@ h6,
 }
 .h2-default {
     font-size: 20px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
     text-transform: none;
 }
@@ -136,13 +136,13 @@ h6,
     font-weight: 800;
 }
 p.text-title {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     width: 70%;
     margin: 0 auto;
 }
 .p {
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
 }
 .pri-color {
@@ -190,7 +190,7 @@ p.text-title {
 }
 .title-default {
     color: #777;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
 }
 .title-default:after {
     content: '';
@@ -209,7 +209,7 @@ h2.text-heading {
     padding: 0;
     margin: 0;
     padding-bottom: 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: none;
     font-size: 34px;
     font-weight: 800;
@@ -235,13 +235,13 @@ h3.text-heading {
     margin: 0;
     color: #777;
     padding-bottom: 10px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-transform: none;
     font-size: 16px;
     font-weight: 500;
 }
 .text-family {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 p.text-heading {
@@ -250,7 +250,7 @@ p.text-heading {
     text-align: center;
     font-size: 16px;
     margin: 0 auto;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     margin-bottom: 30px;
 }
@@ -262,7 +262,7 @@ p.text-heading-2 {
     width: 60%;
     margin: 0 auto;
     font-size: 16px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     margin-bottom: 30px;
 }
@@ -780,7 +780,7 @@ h2.text-heading.coffee-color:after {
 }
 .btn.btn-dark-blue {
     background: #006699;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #fff;
     border-color: #fff;
     text-transform: none;
@@ -795,7 +795,7 @@ h2.text-heading.coffee-color:after {
 }
 .btn.btn-dark-red {
     background: #f1372a;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #fff;
     border-color: #fff;
     text-transform: none;
@@ -1029,7 +1029,7 @@ h2.text-heading.coffee-color:after {
     width:100%;
     border: none;
     color: #fff; 
-    font-family: 'Raleway'  , sans-serif;
+    font-family: 'Roboto'  , sans-serif;
     background: #2ebd7f;
     padding:5px 0;
     margin: 30px 0;
@@ -1089,7 +1089,7 @@ h2.text-heading.coffee-color:after {
     color: #fc3a51;
 }
 .top-bar .left-box button {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 14px;
     color: #fff;
 }
@@ -1117,7 +1117,7 @@ h2.text-heading.coffee-color:after {
     padding-left: 15px;
 }
 .top-bar .right-box ul.list-unstyled li a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 14px;
     color: #aaa;
 }
@@ -1444,7 +1444,7 @@ h2.text-heading.coffee-color:after {
     font-size: 11px;
     text-transform: uppercase;
     color: #606060;
-    font-family: "Raleway",sans-serif;
+    font-family: "Roboto",sans-serif;
     font-weight: 500;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
@@ -1583,7 +1583,7 @@ h2.text-heading.coffee-color:after {
     font-size: 13px;
     text-transform: none;
     color: #606060;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     -moz-transition: all 0.3s;
     -webkit-transition: all 0.3s;
@@ -1594,7 +1594,7 @@ h2.text-heading.coffee-color:after {
     background: #fafafa;
 }
 .main-bar .nav .mega-menu-full h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     font-size: 16px;
     padding-left: 15px;
@@ -1694,7 +1694,7 @@ h2.text-heading.coffee-color:after {
     padding: 0;
 }
 .top-bar-2 .top-address p {
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     color: #b6b6b6;
     font-weight: 400;
     padding: 0;
@@ -2048,13 +2048,13 @@ h2.text-heading.coffee-color:after {
     margin-left: 20px;
 }
 .header8 .sub-bar .contacts p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 600;
     color: #2ebd7f;
     text-align: left;
 }
 .header8 .sub-bar .contacts span {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     color: #777;
 }
@@ -2157,7 +2157,7 @@ h2.text-heading.coffee-color:after {
 
 .header12 .main-bar .main-menu > li > a {
     color: #fff;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     text-transform: none;
     font-weight: 500;
 }
@@ -2193,7 +2193,7 @@ h2.text-heading.coffee-color:after {
 
 .header13 .main-bar .main-menu > li > a {
     color: #fff;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     text-transform: none;
     font-weight: 500;
 }
@@ -2304,7 +2304,7 @@ h2.text-heading.coffee-color:after {
     color: #5bb300 !important;
 }
 .shop-header .account button {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 13px;
     color: #555;
 }
@@ -2326,7 +2326,7 @@ h2.text-heading.coffee-color:after {
     border-right: none;
 }
 .shop-header .top-links li a {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 13px;
     color: #555;
 }
@@ -2357,21 +2357,21 @@ h2.text-heading.coffee-color:after {
     text-transform: uppercase;
     font-size: 12px;
     color: #555;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .shop-header .header-cart .header-cart-item b {
     color: #5bb300;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 500;
 }
 .shop-header .header-cart .header-cart-item p a {
    text-transform: uppercase;
    color: #555;
    font-size: 12px;
-   font-family: 'Raleway' , sans-serif;
+   font-family: 'Roboto' , sans-serif;
 }
 .shop-header .contacts p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
 }
 .shop-header .contacts i {
     color: #5bb300;
@@ -2408,19 +2408,19 @@ h2.text-heading.coffee-color:after {
     border-radius: 0;
 }
 .shop-header-2 .main-bar .nav .dropdown-menu a {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 11px;
     font-weight: 400;
 }
 .shop-header-2 .main-bar .nav .mega-menu-full a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #666;
     font-size: 12px;
     font-weight: 500;
 }
 .shop-header-2 .main-bar .nav .mega-menu-full h4 {
     color: #fc3a51;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-weight: 600;
 }
@@ -2475,18 +2475,18 @@ h2.text-heading.coffee-color:after {
     font-size: 13px;
     font-weight: 600;
     color: #555;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .shop-header-2 .header-cart .header-cart-item b {
     color: #fc3a51;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 700;
 }
 .shop-header-2 .header-cart .header-cart-item p a {
    text-transform: uppercase;
    color: #555;
    font-size: 16px;
-   font-family: 'Raleway' , sans-serif;
+   font-family: 'Roboto' , sans-serif;
 }
 .shop-header-2 .search-category {
     margin-top: 33px;
@@ -2563,21 +2563,21 @@ h2.text-heading.coffee-color:after {
     border-radius: 0;
 }
 .shop-header-3 .main-bar .nav .dropdown-menu a {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 14px;
     text-transform: none;
     color: #777;
     font-weight: 400;
 }
 .shop-header-3 .main-bar .nav .mega-menu-full a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #666;
     font-size: 12px;
     font-weight: 500;
 }
 .shop-header-3 .main-bar .nav .mega-menu-full h4 {
     color: #1071dc;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-weight: 600;
 }
@@ -2636,18 +2636,18 @@ h2.text-heading.coffee-color:after {
     font-size: 13px;
     font-weight: 600;
     color: #555;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .shop-header-3 .header-cart .header-cart-item b {
     color: #1071dc;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 700;
 }
 .shop-header-3 .header-cart .header-cart-item p a {
    text-transform: uppercase;
    color: #555;
    font-size: 16px;
-   font-family: 'Raleway' , sans-serif;
+   font-family: 'Roboto' , sans-serif;
 }
 .shop-header-3 .search-category {
     margin-top: 33px;
@@ -2737,7 +2737,7 @@ h2.text-heading.coffee-color:after {
     border-radius: 0;
 }
 .news-header-1 .main-bar .nav .dropdown-menu a {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 13px;
     text-transform: none;
     color: #ccc;
@@ -2745,14 +2745,14 @@ h2.text-heading.coffee-color:after {
     border-bottom: 1px solid #333;
 }
 .news-header-1 .main-bar .nav .mega-menu-full a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #666;
     font-size: 12px;
     font-weight: 500;
 }
 .news-header-1 .main-bar .nav .mega-menu-full h4 {
     color: #ccc;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-weight: 600;
 }
@@ -2789,7 +2789,7 @@ h2.text-heading.coffee-color:after {
 }
 .news-header-1 .top-left li {
     display: inline-block;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     font-size: 13px;
     padding-right: 5px;
@@ -2798,7 +2798,7 @@ h2.text-heading.coffee-color:after {
     padding-bottom: 7px;
 }
 .news-header-1 .top-left li a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     font-size: 13px;
     color: #777;
@@ -2966,7 +2966,7 @@ h2.text-heading.coffee-color:after {
 }
 .item-box .item-content h2 {
     font-size: 14px;
-    font-family: 'Raleway' , Arial, sans-serif;
+    font-family: 'Roboto' , Arial, sans-serif;
     margin: 0;
     padding: 0;
     padding-top: 6px;
@@ -2975,7 +2975,7 @@ h2.text-heading.coffee-color:after {
 }
 .item-box .item-content a {
     font-size: 14px;
-    font-family: 'Raleway' , Arial, sans-serif;
+    font-family: 'Roboto' , Arial, sans-serif;
     font-weight: 500;
     color: #000;
 }
@@ -2985,7 +2985,7 @@ h2.text-heading.coffee-color:after {
 .item-box .item-content span {
     font-size: 14px !important;
     font-weight: 600;
-    font-family: 'Raleway' , Arial, sans-serif;
+    font-family: 'Roboto' , Arial, sans-serif;
     margin: 0;
     padding: 0;
     color: #2ebd7f !important;
@@ -3037,7 +3037,7 @@ h2.text-heading.coffee-color:after {
     text-transform: none;
     font-size: 0.9em;
     color: #777;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 500;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
@@ -3287,7 +3287,7 @@ h2.text-heading.coffee-color:after {
     border: none;
 }
 .header-center .sub-bar .contacts p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     padding-top: 20px;
     color: #777;
@@ -3397,13 +3397,13 @@ h2.text-heading.coffee-color:after {
     color: #2ebd7f;
 }
 .dark-header-3 .sub-bar .contacts p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 600;
     color: #2ebd7f;
     text-align: left;
 }
 .dark-header-3 .sub-bar .contacts span {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     color: #777;
 }
@@ -3533,7 +3533,7 @@ h2.text-heading.coffee-color:after {
   text-align: center;
   color: #fff;
   font-size: 68px;
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Roboto",Arial,sans-serif;
   font-weight: 800;
   margin: 0;
   padding: 0;
@@ -3541,7 +3541,7 @@ h2.text-heading.coffee-color:after {
 .content-overlay h3 {
   text-align: center;
   color: #fff;
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Roboto",Arial,sans-serif;
   font-weight: 600;
   margin: 0;
   padding: 0;
@@ -3551,7 +3551,7 @@ h2.text-heading.coffee-color:after {
   text-align: center;
   color: #fff;
   font-size: 24px;
-  font-family: "Raleway",Arial,sans-serif;
+  font-family: "Roboto",Arial,sans-serif;
   font-weight: 500;
   text-transform: uppercase;
   margin: 0;
@@ -3570,7 +3570,7 @@ h2.text-heading.coffee-color:after {
 }
 .welcome2 h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 32px;
     padding: 0;
@@ -3592,7 +3592,7 @@ h2.text-heading.coffee-color:after {
 }
 .sec-title h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 32px;
     padding: 0;
@@ -3617,7 +3617,7 @@ h2.text-heading.coffee-color:after {
 }
 .features h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 40px;
     text-transform: none;
     padding: 0;
@@ -3635,7 +3635,7 @@ h2.text-heading.coffee-color:after {
 }
 .features h5 {
     width: 700px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     margin: 0 auto;
     font-size: 16px;
     font-weight: 500;
@@ -3645,7 +3645,7 @@ h2.text-heading.coffee-color:after {
     line-height: 25px;
 }
 .features p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
 }
 .features-box {
   margin-bottom: 50px;
@@ -3664,7 +3664,7 @@ h2.text-heading.coffee-color:after {
     font-size: 15px;
     margin: 0 0 5px;
     color: #2a2a2a;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
 }
 
@@ -3710,7 +3710,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-style-2 .features-col p {
     color: #fff;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     padding: 0;
 }
 .features-style-2 .features-col i {
@@ -3833,7 +3833,7 @@ h2.text-heading.coffee-color:after {
 }
 
 .features-2 p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     clear: both;
 }
 
@@ -3884,7 +3884,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-3 h2 {
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-transform: none;
     font-size: 32px;
     padding: 0;
@@ -3904,12 +3904,12 @@ h2.text-heading.coffee-color:after {
     font-size: 32px;
 }
 .features-3 p {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 18px;
     font-weight: 300;
 }
 .features-3 .text {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 14px;
     font-weight: 300;
 }
@@ -3930,7 +3930,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-4 h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 32px;
     padding: 0;
@@ -3989,7 +3989,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-5 p {
     text-align: center;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
 }
 .features-5:hover {
     background: #2ebd7f;
@@ -4049,7 +4049,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-box-6 .box-1 h2 {
     position: relative;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 30px;
 }
@@ -4057,7 +4057,7 @@ h2.text-heading.coffee-color:after {
     position: relative;
     font-size: 16px;
     color: #333;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .features-box-6 .box-1 a{
     position: relative;
@@ -4081,7 +4081,7 @@ h2.text-heading.coffee-color:after {
 }
 .features-box-6 .box-2 h2 {
     position: relative;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 30px;
     text-transform: none;
 }
@@ -4089,7 +4089,7 @@ h2.text-heading.coffee-color:after {
     position: relative;
     font-size: 16px;
     color: #333;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
 }
 .features-box-6 .box-2 a {
@@ -4115,7 +4115,7 @@ h2.text-heading.coffee-color:after {
 .features-box-6 .box-3 h2 {
     position: relative;
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 30px;
     text-transform: none;
 }
@@ -4123,7 +4123,7 @@ h2.text-heading.coffee-color:after {
     position: relative;
     color: #fff;
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .features-box-6 .box-3 a {
     position: relative;
@@ -4139,7 +4139,7 @@ h2.text-heading.coffee-color:after {
 }
 .section-default h2 {
     padding-top: 50px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .section-default p {
     font-size: 16px;
@@ -4193,20 +4193,20 @@ h2.text-heading.coffee-color:after {
     margin: 0;
 }
 .block-section h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .block-section h3 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 18px;
     padding: 8px 0;
     margin: 0;
 }
 .block-section p {
-    font-family: 'Raleway', Arial , sans-serif;
+    font-family: 'Roboto', Arial , sans-serif;
 }
 .block-section li {
-    font-family: 'Raleway', Arial , sans-serif;
+    font-family: 'Roboto', Arial , sans-serif;
 }
 .block-section li i {
     padding-right: 10px;
@@ -4248,7 +4248,7 @@ h2.text-heading.coffee-color:after {
 }
 .block-section-3 .col-left p {
     text-align: right;
-    font-family: 'Raleway' , Arial ,sans-serif;
+    font-family: 'Roboto' , Arial ,sans-serif;
     margin: 0;
 }
 .block-section-3 .col-left i {
@@ -4269,7 +4269,7 @@ h2.text-heading.coffee-color:after {
 }
 .block-section-3 .col-right p {
     text-align: left;
-    font-family: 'Raleway' , Arial ,sans-serif;
+    font-family: 'Roboto' , Arial ,sans-serif;
     margin: 0;
 }
 .block-section-3 .col-right i {
@@ -4312,7 +4312,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 8px;
 }
 .block-section-4 .blog .blog-content .post-meta span {
-    font-family: 'Raleway' , Arial ,sans-serif;
+    font-family: 'Roboto' , Arial ,sans-serif;
     color: #848484;
     padding-right: 10px;
 }
@@ -4327,7 +4327,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 8px;
 }
 .block-section-4 .blog .blog-content .post-text h2 a {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     color: #333;
     font-size: 16px;
@@ -4335,7 +4335,7 @@ h2.text-heading.coffee-color:after {
     margin: 0;
 }
 .block-section-4 .blog .blog-content .post-text p {
-    font-family: 'Raleway' , Arial ,sans-serif;
+    font-family: 'Roboto' , Arial ,sans-serif;
     text-align: left;
     color: #848484;
 }
@@ -4372,7 +4372,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 10px;
 }
 .block-section-5 h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #333;
     text-transform: none;
     font-size: 20px;
@@ -4380,7 +4380,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 10px;
 }
 .block-section-5 p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     color: #777;
 }
 .block-section-5 span {
@@ -4416,7 +4416,7 @@ h2.text-heading.coffee-color:after {
     display: block;
 }
 .block-section-6 .service-box-3 h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-weight: 500;
     color: #333;
@@ -4424,7 +4424,7 @@ h2.text-heading.coffee-color:after {
     text-transform: none;
 }
 .block-section-6 .service-box-3 p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     text-align: center;
     color: #777;
 }
@@ -4455,7 +4455,7 @@ h2.text-heading.coffee-color:after {
     width: 100%;
 }
 .block-section-7 .single-item h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-family: 24px;
     color: #2ebd7f;
     text-transform: none;
@@ -4463,14 +4463,14 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 15px;
 }
 .block-section-7 .single-item p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     color: #777;
     text-transform: none;
     margin: 0;
     margin-bottom: 15px;
 }
 .block-section-7 .single-item li {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     color: #777;
     margin-bottom: 5px;
 }
@@ -4492,7 +4492,7 @@ h2.text-heading.coffee-color:after {
     display: block;
 }
 .block-section-8 h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #003366;
     text-transform: none;
     font-size: 20px;
@@ -4510,7 +4510,7 @@ h2.text-heading.coffee-color:after {
     position: absolute;
 }
 .block-section-8 p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     color: #777;
 }
 .block-section-8 span {
@@ -4694,14 +4694,14 @@ h2.text-heading.coffee-color:after {
 }
 .latest-blog h2 {
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-transform: none;
     padding: 0;
     margin: 0;
     padding-bottom: 20px;
 }
 .latest-blog p {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 .latest-blog h2:after {
     content: '';
@@ -4753,13 +4753,13 @@ h2.text-heading.coffee-color:after {
     color: #fff;
     text-transform: none;
     font-size: 24px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     padding-bottom: 2px;
 }
 
 .call-action p {
     margin: 0;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     font-size: 16px;
 }
@@ -4789,7 +4789,7 @@ h2.text-heading.coffee-color:after {
     margin: 0;
 }
 .call-to-action .call-to-action-content  h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     text-transform: none;
     color: #2a2a2a;
@@ -4799,7 +4799,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 10px;
 }
 .call-to-action .call-to-action-content  p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #777;
     font-size: 16px;
     text-align: center;
@@ -4821,7 +4821,7 @@ h2.text-heading.coffee-color:after {
     margin: 0;
 }
 .call-to-action .call-to-action-full-content  h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     text-transform: none;
     color: #2a2a2a;
@@ -4831,7 +4831,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 10px;
 }
 .call-to-action .call-to-action-full-content  p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #777;
     font-size: 16px;
     text-align: center;
@@ -4962,7 +4962,7 @@ h2.text-heading.coffee-color:after {
     background: #fff;
 }
 .home-intro h2{
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-align: center;
     font-size: 28px;
     font-weight: 500;
@@ -4972,7 +4972,7 @@ h2.text-heading.coffee-color:after {
 .home-intro p {
     text-align: center;
     font-size: 16px;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     line-height: 25px;
     padding: 0 100px;
@@ -4988,7 +4988,7 @@ h2.text-heading.coffee-color:after {
     background: #fff;
 }
 .home-intro-2 .top-title h2 {
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     text-align: center;
     font-size: 34px;
     padding: 0;
@@ -4998,7 +4998,7 @@ h2.text-heading.coffee-color:after {
 .home-intro-2 .top-title p {
     text-align: center;
     font-size: 18px;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     line-height: 25px;
     padding: 0 100px;
@@ -5017,7 +5017,7 @@ h2.text-heading.coffee-color:after {
     margin: 0;
     color: #333;
     font-size: 20px;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     padding-bottom: 10px;
     -webkit-transition: background 0.2s, color 0.2s;
   -moz-transition: background 0.2s, color 0.2s;
@@ -5026,7 +5026,7 @@ h2.text-heading.coffee-color:after {
 
 .home-intro-2 .intro-box p {
     margin: 0;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     margin-bottom: 70px;
 }
 .home-intro-2 .intro-box i {
@@ -5050,7 +5050,7 @@ h2.text-heading.coffee-color:after {
 .home-form form textarea {
     background: transparent;
     border-color: #999;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #fff;
 }
 
@@ -5065,7 +5065,7 @@ h2.text-heading.coffee-color:after {
     position: relative;
     padding-left: 120px;
     margin-bottom: 25px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     font-size: 14px;
 }
@@ -5098,16 +5098,16 @@ h2.text-heading.coffee-color:after {
     padding: 0;
     margin-bottom: 30px;
     font-weight: 600;
-    font-family:"Raleway",Arial,sans-serif;
+    font-family:"Roboto",Arial,sans-serif;
 }
 
 .right-box p {
     font-size: 18px;
-    font-family:"Raleway",Arial,sans-serif;
+    font-family:"Roboto",Arial,sans-serif;
     font-weight: 300;
 }
 .right-box label {
-    font-family:"Raleway",Arial,sans-serif;
+    font-family:"Roboto",Arial,sans-serif;
     font-size: 16px;
 }
 
@@ -5261,13 +5261,13 @@ h2.text-heading.coffee-color:after {
 .testi-box p {
     font-size: 13px;
     color: #fff;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     
 }
 .testi-box .text h4 {
     margin: 0 0 5px;
     font-size: 16px;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 300;
     text-transform: none;
     color: #fff;
@@ -5327,13 +5327,13 @@ h2.text-heading.coffee-color:after {
 }
 
 .title-form h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     margin: 0 0 10px;
     line-height: 1;
 }
 .title-form p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     font-size: 14px;
     margin: 0 0 5px;
@@ -5360,7 +5360,7 @@ h2.text-heading.coffee-color:after {
     width: 40%;
     float: left;
     padding-right: 20px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
 }
 .newsletter .input-form input[type=text] {
@@ -5392,7 +5392,7 @@ h2.text-heading.coffee-color:after {
 
 .slider1 span {
     font-size: 80px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 700;
     color: #2ebd7f;
     margin: 0;
@@ -5400,7 +5400,7 @@ h2.text-heading.coffee-color:after {
 }
 .slider1 h4 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     font-size: 36px;
@@ -5409,7 +5409,7 @@ h2.text-heading.coffee-color:after {
 }
 .slider1 h5 {
     font-size: 70px !important;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 700;
     color: #2ebd7f;
     margin: 0;
@@ -5419,7 +5419,7 @@ h2.text-heading.coffee-color:after {
     width: 800px;
     color: #fff;
     line-height: 20px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500 !important;
     font-size: 14px !important;
     text-transform: none !important;
@@ -5461,7 +5461,7 @@ h2.text-heading.coffee-color:after {
 }
 .our-latest-work-warp h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 32px;
     padding: 0;
@@ -5538,7 +5538,7 @@ h2.text-heading.coffee-color:after {
     color: #2ebd7f;
 }
 .login label {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     padding-top: -20px !important;
     margin-top: -20px !important;
@@ -5578,7 +5578,7 @@ h2.text-heading.coffee-color:after {
 
 .left-our-advantages p {
     font-size: 18px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     color: #cdcdcd;
     font-weight: 300;
     margin-top: 20px;
@@ -5586,11 +5586,11 @@ h2.text-heading.coffee-color:after {
 }
 .left-our-advantages .p-text {
     font-size: 14px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
 }
 .left-our-advantages h2 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 40px;
 }
@@ -5644,7 +5644,7 @@ h2.text-heading.coffee-color:after {
 }
 .our-team h2 {
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     padding: 0;
     text-transform: none;
     margin: 0;
@@ -5662,7 +5662,7 @@ h2.text-heading.coffee-color:after {
 .our-team p {
     width: 60%;
     font-size: 14px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
     color: #777;
     margin: 0 auto;
@@ -5693,11 +5693,11 @@ h2.text-heading.coffee-color:after {
     text-align: center;
     text-transform: uppercase;
     font-size: 18px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .our-team .our-team-item .our-content h5 {
      text-align: center;
-     font-family: 'Raleway' , sans-serif;
+     font-family: 'Roboto' , sans-serif;
      font-weight: 300;
 }
 .our-team .our-team-item .our-content .our-social {
@@ -5756,7 +5756,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 40px;
 }
 .our-team-3 h3 {
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     text-transform: none;
     font-size: 20px !important;
     font-weight: 400;
@@ -5786,7 +5786,7 @@ h2.text-heading.coffee-color:after {
 }
 .our-team-3 .team-member .tex-overlay p {
     color: #fff;
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     font-weight: 400;
     font-size: 15px;
 }
@@ -5795,7 +5795,7 @@ h2.text-heading.coffee-color:after {
 } 
 .our-team-3 .team-member h4 {
     text-align: center;
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     text-transform: none;
     font-size: 20px !important;
     font-weight: 400;
@@ -5805,7 +5805,7 @@ h2.text-heading.coffee-color:after {
 }
 .our-team-3 .team-member span {
     text-align: center;
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     font-weight: 400;
     display: block;
     margin: 0 !important;
@@ -5813,7 +5813,7 @@ h2.text-heading.coffee-color:after {
 }
 .our-team-3 .team-member p {
     text-align: center;
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     font-weight: 400;
     padding-bottom: 4px;
 }
@@ -5868,7 +5868,7 @@ h2.text-heading.coffee-color:after {
     margin-bottom: 40px;
 }
 .our-team-4 h3 {
-    font-family: 'Raleway' ,Arial, sans-serif;
+    font-family: 'Roboto' ,Arial, sans-serif;
     text-transform: none;
     font-size: 20px !important;
     font-weight: 400;
@@ -5897,7 +5897,7 @@ h2.text-heading.coffee-color:after {
 .content-4 h4 {
     text-align: center;
     color: #fff !important;
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     margin: 0;
 }
 .content-4 span {
@@ -5905,7 +5905,7 @@ h2.text-heading.coffee-color:after {
     color: #fff;
     vertical-align: middle;
     display: block;
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     padding-bottom: 10px;
 }
 .content-4 a {
@@ -5977,7 +5977,7 @@ h2.text-heading.coffee-color:after {
     transition:all .3s ease-out;
 }
 .our-team-5 .single-item .our-content h2 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 16px;
     text-transform: none;
     margin: 0;
@@ -5985,7 +5985,7 @@ h2.text-heading.coffee-color:after {
     text-align: center;
 }
 .our-team-5 .single-item .our-content span {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     text-align: center;
     display: block;
     padding-bottom: 10px;
@@ -5994,7 +5994,7 @@ h2.text-heading.coffee-color:after {
     margin: 0;
 }
 .our-team-5 .single-item .our-content p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
 }
 .our-team-5 .single-item:hover .our-content {
     box-shadow: 0px 0px 15px 8px #D1D1D1;
@@ -6034,11 +6034,11 @@ h2.text-heading.coffee-color:after {
 }
 .why-choose-2 h2 {
     color: #fff;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 .why-choose-2 p {
     color: #fff;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
 }
 .slideshow {
     position: relative;
@@ -6379,7 +6379,7 @@ h2.text-heading.coffee-color:after {
     padding: 10px 0;
     font-weight: bold;
     text-align: center;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 400;
     border-radius: 5px;
 }
@@ -6552,7 +6552,7 @@ h2.text-heading.coffee-color:after {
     padding: 10px 0;
     font-weight: bold;
     text-align: center;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 400;
     border-radius: 5px;
 }
@@ -7324,7 +7324,7 @@ h2.text-heading.coffee-color:after {
 }
 
 .service-box2 h4 {
-    font-family: 'Raleway' ,sans-serif;
+    font-family: 'Roboto' ,sans-serif;
     font-weight: 300;
     margin-bottom: 20px;
     font-size: 24px;
@@ -7380,7 +7380,7 @@ h2.text-heading.coffee-color:after {
 
 .call-action3 h3 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 700;
     font-size: 30px;
     margin-bottom: 15px;
@@ -7388,7 +7388,7 @@ h2.text-heading.coffee-color:after {
 
 .call-action3 h4 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
     margin-bottom: 25px;
 }
@@ -7441,13 +7441,13 @@ h2.text-heading.coffee-color:after {
 }
 
 .font-18 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 18px;
     margin-bottom: 20px;
     color: #777;
 }
 .font-14 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 14px;
     margin-bottom: 20px;
     color: #777;
@@ -7521,7 +7521,7 @@ h2.text-heading.coffee-color:after {
 
 .fact-box p {
     color: #fff;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 18px;
     font-weight: 300;
     margin-bottom: 0;
@@ -7542,13 +7542,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-style p {
     color: #777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 16px;
 }
 .fun-fact.fun-style .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #2e353e;
     letter-spacing: -1px;
 }
@@ -7562,13 +7562,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-default p {
     color: #777777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 18px;
 }
 .fun-fact.fun-default .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #777777;
     letter-spacing: -1px;
 }
@@ -7582,13 +7582,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-sm p {
     color: #777777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 16px;
 }
 .fun-fact.fun-sm .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #777777;
     font-size: 38px;
     letter-spacing: -1px;
@@ -7618,13 +7618,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-lg p {
     color: #777777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 20px;
 }
 .fun-fact.fun-lg .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #777777;
     font-size: 78px;
     letter-spacing: -1px;
@@ -7641,13 +7641,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-light p {
     color: #777777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 18px;
 }
 .fun-fact.fun-light .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #777777;
     letter-spacing: -1px;
 }
@@ -7664,13 +7664,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-blue p {
     color: #fff;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 18px;
 }
 .fun-fact.fun-blue .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #fff;
     letter-spacing: -1px;
 }
@@ -7682,13 +7682,13 @@ h2.text-heading.coffee-color:after {
 }
 .fun-fact.fun-icon p {
     color: #777;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 300;
     text-transform: none;
     font-size: 18px;
 }
 .fun-fact.fun-icon .num-fact {
-    font-size: "Raleway",Arial,sans-serif;
+    font-size: "Roboto",Arial,sans-serif;
     color: #2ebd7f;
     letter-spacing: -1px;
 }
@@ -7743,20 +7743,20 @@ h2.text-heading.coffee-color:after {
     position: absolute;
 }
 .wesay-light-2 h2 {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 .wesay-light-2 p {
     color: #696969 !important;
     font-size: 18px;
     padding: 0;
-    font-family: 'Raleway', Arial , sans-serif;
+    font-family: 'Roboto', Arial , sans-serif;
     font-weight: 500;
     font-style: normal;
 }
 .wesay-light-2 span {
     color: #777;
     font-size: 14px;
-    font-family: 'Raleway', Arial , sans-serif;
+    font-family: 'Roboto', Arial , sans-serif;
     font-weight: 500;
     padding: 0;
     margin: 0;
@@ -7779,7 +7779,7 @@ h2.text-heading.coffee-color:after {
     position: relative;
 }
 .wesay-light-3 h2 {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 .wesay-light-3 p {
     color: #d3d3d3 !important;
@@ -7803,7 +7803,7 @@ h2.text-heading.coffee-color:after {
 }
 .wesay-light-3.testimonials-bg p {
     color: #fff !important;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -7867,14 +7867,14 @@ h2.text-heading.coffee-color:after {
 .breadcrumbs .page-title h2 {
     color: #fff;
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     text-transform: none;
     font-size: 50px;
     font-weight: 700;
 }
 .breadcrumbs .page-title p {
     font-size: 16px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     margin: 0;
     padding: 0;
     padding-bottom: 15px;
@@ -7890,7 +7890,7 @@ h2.text-heading.coffee-color:after {
 }
 
 .breadcrumbs a {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #fff;
 }
 
@@ -7908,7 +7908,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-1 h2 {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -7920,7 +7920,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-1 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff; 
 }
@@ -7944,7 +7944,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-2 h2 {
     color: #fff;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -7963,7 +7963,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-2 .breadcrumb-2 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff; 
 }
@@ -7993,7 +7993,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-3 h2 {
     color: #777;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -8005,7 +8005,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-3 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #777; 
 }
 .page-header-3 li a {
@@ -8037,7 +8037,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-4 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff; 
 }
@@ -8053,7 +8053,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-4 .txt-right h2 {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -8064,7 +8064,7 @@ h2.text-heading.coffee-color:after {
 .page-header-4 .txt-right h3 {
     color: #fff;
     font-size: 16px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     text-transform: none;
     margin: 0;
@@ -8082,7 +8082,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-5 h2 {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -8094,7 +8094,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-5 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     color: #2ebd7f; 
 }
@@ -8131,7 +8131,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-6 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff; 
 }
@@ -8147,7 +8147,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-6  h2 {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -8157,7 +8157,7 @@ h2.text-heading.coffee-color:after {
 .page-header-6  h3 {
     color: #fff;
     font-size: 16px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     text-transform: none;
     margin: 0;
@@ -8183,7 +8183,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-7 li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff; 
 }
@@ -8199,7 +8199,7 @@ h2.text-heading.coffee-color:after {
 }
 .page-header-7  h2 {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
     text-transform: none;
     margin: 0;
@@ -8209,7 +8209,7 @@ h2.text-heading.coffee-color:after {
 .page-header-7  h3 {
     color: #fff;
     font-size: 16px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     text-transform: none;
     margin: 0;
@@ -8227,7 +8227,7 @@ h2.text-heading.coffee-color:after {
  
 }
 .content-container h2 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 28px;
     color: #000;
     font-weight: 300;
@@ -8235,14 +8235,14 @@ h2.text-heading.coffee-color:after {
     letter-spacing: -1px;
 }
 .content-container h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 18px !important;
     color: #1d2127;
     font-weight: 500;
     text-transform: none;
 }
 .content-container p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 14px;
     color: #777;
     font-weight: 400;
@@ -8283,18 +8283,18 @@ h2.text-heading.coffee-color:after {
     background: #000;
 }
 .post-content h2 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
 }
 .post-content p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #777;
 }
 .post-content a {
     color: #2ebd7f !important;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 500;
     margin: 0;
     padding: 0;
@@ -8305,7 +8305,7 @@ h2.text-heading.coffee-color:after {
 }
 .post-content .post-date p {
     background: #f1f1f1;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     color: #2ebd7f;
     font-size: 20px;
     margin: 0;
@@ -8315,7 +8315,7 @@ h2.text-heading.coffee-color:after {
 .post-content .post-date span {
     background: #2ebd7f;
     color: #fff;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     margin: 0;
     padding: 0;
@@ -8326,7 +8326,7 @@ h2.text-heading.coffee-color:after {
 .post-content .link-more {
     font-size: 12px;
     font-weight: 500;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     background: #2ebd7f;
     color: #fff !important;
     padding: 5px 12px;
@@ -8344,7 +8344,7 @@ h2.text-heading.coffee-color:after {
 }
 .post-content span {
     color: #2ebd7f;
-    font-family: "Raleway", Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
     padding-right: 10px;
     font-weight: 600;
 }
@@ -8688,7 +8688,7 @@ h2.text-heading.coffee-color:after {
 }
 
 .breadcrumb li {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 14px;
 }
 
@@ -9095,7 +9095,7 @@ article.item-post .post-meta .avatar-date p {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -9131,7 +9131,7 @@ article.item-post .post-meta .meta-right {
 
 article.item-post .post-meta .meta-right p {
     font-size: 14px;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     color: #777;
     line-height: 24px;
 }
@@ -9139,7 +9139,7 @@ article.item-post .post-meta .meta-right span {
     color: #545454;
 }
 article.item-post .post-meta h4 a {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-transform: none;
     font-size: 24px;
     font-weight: 500;
@@ -9173,7 +9173,7 @@ article.medium-post {
 article.medium-post h3 {
     padding: 0;
     margin: 0;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     text-transform: none;
     font-weight: 400;
     font-size: 24px;
@@ -9181,7 +9181,7 @@ article.medium-post h3 {
     padding-bottom: 10px;
 }
 article.medium-post p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     font-size: 14px;
 }
@@ -9190,7 +9190,7 @@ article.medium-post ul {
 }
 article.medium-post li {
     display: inline-block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     font-size: 13px;
     padding-right: 8px;
@@ -9200,7 +9200,7 @@ article.medium-post .readmore a {
     background: #2ebd7f;
     color: #fff;
     font-size: 13px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     border-radius: 4px;
 }
 article.medium-post .readmore a:hover {
@@ -9221,7 +9221,7 @@ article.item-post .post-meta .medium-avatar-date p {
     color: #fff;
     font-size: 12px;
     font-weight: 600;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -9240,7 +9240,7 @@ article.item-post .post-meta .medium-meta-right h4 {
 }
 article.item-post .post-meta .medium-meta-right p {
     font-size: 13px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 500;
     color: #777;
     line-height: 20px;
@@ -9262,7 +9262,7 @@ article.item-post .post-meta .small-avatar-date p {
     color: #fff;
     font-size: 12px;
     font-weight: 600;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -9281,7 +9281,7 @@ article.item-post .post-meta .small-meta-right h5 a{
 }
 article.item-post .post-meta .small-meta-right p {
     font-size: 12px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 500;
     color: #777;
     line-height: 20px;
@@ -9382,12 +9382,12 @@ article.latest-post:hover {
     padding-bottom: 5px;
 }
 .latest-blog-2 .blog .blog-content a {
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-weight: 600;
     color: #333;
 }
 .latest-blog-2 .blog .blog-content p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 14px;
 }
 .latest-blog-2 .blog:hover .image img {
@@ -9481,7 +9481,7 @@ article.latest-post:hover {
 
 .single-post h4.title-block {
     padding: 50px 0 20px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     margin: 0;
 }
 
@@ -9492,7 +9492,7 @@ article.latest-post:hover {
 blockquote {
     background: #fafafa;
     border-color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 14px;
     color: #777;
 }
@@ -9624,7 +9624,7 @@ blockquote.border-style-4 {
     border-top: 1px solid #ebeced;
 }
 .meta-single h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     color: #2ebd7f;
 }
@@ -9984,12 +9984,12 @@ blockquote.border-style-4 {
     margin-left: 90px;
     border-right: 1px solid #ebeced;
     font-size: 13px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
 }
 .list-comments .comment-right span {
     margin: 0 !important;
     padding: 0 !important;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
     font-size: 14px;
@@ -10009,7 +10009,7 @@ blockquote.border-style-4 {
 }
 .comment-respond h4 {
     font-weight: 400;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     padding: 20px 0;
     font-size: 20px;
 }
@@ -10105,7 +10105,7 @@ blockquote.border-style-4 {
     padding: 6px 18px;
     float: left;
     font-size: 14px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     margin: 0 5px 5px 0;
     border: 1px solid #262934;
 }
@@ -10207,7 +10207,7 @@ h4.tle-color:before {
 .sidebar .widget_tabs li {
     float: left;
     border-top: none;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 13px;
     font-weight: 500;
     padding: 10px 12px;
@@ -10242,7 +10242,7 @@ h4.tle-color:before {
   padding: 5px 20px 15px 45px;
   margin: 0 0 20px;
   position: relative;
-  font-family: 'Raleway',sans-serif;
+  font-family: 'Roboto',sans-serif;
   font-size: 14px;
   line-height: 1.2;
   color: #666;
@@ -10300,7 +10300,7 @@ h4.tle-color:before {
     color: #fff;
 }
 .sidebar .textwidget {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     max-width: 260px;
     padding: 15px 18px 8px;
     border: 1px solid #e4e4e4;
@@ -10339,7 +10339,7 @@ h4.tle-color:before {
 }
 .sidebar .sidebar-products h3 {
     font-size: 14px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     margin: 0 !important;
     padding: 0 !important;
     text-transform: none;
@@ -10450,7 +10450,7 @@ h4.tle-color:before {
 
 .tabs-post .right-post p {
     font-size: 12px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 500;
 }
 
@@ -10610,7 +10610,7 @@ div.error {
 .breaking_news .item a h6 {
     display: inline-block;
     color: #777;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 600;
     margin: 0;
     padding: 0;
@@ -10735,7 +10735,7 @@ a.read-more-button:hover {
 }
 .image-post .hover-box .inner-hover h2 {
   color: #333333;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 20px;
   margin: 0 0 10px;
@@ -10903,7 +10903,7 @@ a.category-post.video {
     margin: 0;
 }
 .news-featured h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -10970,7 +10970,7 @@ ul.list-posts > li .news-info h2 a {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  font-family: 'Raleway',Arial, sans-serif;
+  font-family: 'Roboto',Arial, sans-serif;
   font-weight: 500;
   font-size: 14px;
   color: #777;
@@ -11017,7 +11017,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     margin: 0;
 }
 .fashion-and-photography h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -11110,7 +11110,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 ========================================*/
 
 .news-world h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -11131,7 +11131,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
    News recent posts 
 ========================================*/
 .recent-posts h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -11200,7 +11200,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     margin-bottom: 20px;
 }
 .entertainment-section h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -11234,7 +11234,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     padding: 0;
 }
 .video-section h4 {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-weight: 400;
     font-size: 20px;
     border-bottom: 1px solid #e4e4e4;
@@ -11304,7 +11304,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .video-news .video-item .content-info li {
     display: inline-block;
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     font-size: 13px;
     color: #777;
     padding-right: 10px;
@@ -11343,7 +11343,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .event-bg h2 {
     position: relative;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #fff;
 }
 
@@ -11382,7 +11382,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .service-width h2 {
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 0;
     margin: 0;
     padding-bottom: 20px;
@@ -11390,7 +11390,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 .service-width .text-title {
     text-align: center;
     font-size: 18px;
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     font-weight: 200;
     padding: 0 200px;
     color: #777;
@@ -11427,11 +11427,11 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     transition: .3s;
 }
 .service-box h4 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #111;
 }
 .service-box p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
 }
 .service-box a {
     color: #2ebd7f;
@@ -11484,13 +11484,13 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 .tabs-default .content-tabs h3 {
     margin-top: 0;
     font-weight: 400;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-transform: none;
 }
 .tabs-default .content-tabs p {
     margin-top: 0;
     font-weight: 400;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
 }
 .tabs-default .content-tabs img.fleft {
     margin-right: 15px;
@@ -11628,7 +11628,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 
 .accordion.smk_accordion .acc_content {
     padding: 25px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
 }
 .accordion.smk_accordion .acc_active.active-style i {
     background: #003366 !important;
@@ -11640,7 +11640,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 .accordion.smk_accordion .acc_head.style1 h4 {
     background: #fff;
     text-transform: none;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
     color: #666;
     height: 30px;
@@ -11738,7 +11738,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     text-align: center;
     width: 60%;
     margin: 0 auto;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 15px;
     padding: 20px 0;
 }
@@ -11752,7 +11752,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .about-me h3 {
     font-size: 26px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     text-transform: none;
     font-weight: 400;
     color: #000;
@@ -11761,14 +11761,14 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .about-me h4 {
     font-size: 18px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #e4e4e4;
     padding-bottom: 20px;
 }
 .about-me p {
     font-size: 15px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
 }
 .about-me img {
@@ -11781,7 +11781,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .about-me li {
     font-size: 15px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
 }
 .about-me ul i {
@@ -11794,7 +11794,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     padding: 40px 0 40px 0;
 }
 .about-us3 h2 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
     border-bottom: 1px solid #e4e4e4;
     padding-bottom: 20px;
@@ -11802,7 +11802,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .about-us3 p {
     font-size: 15px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
 }
 .about-our-team {
@@ -11815,7 +11815,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     margin: 0;
 }
 .about-our-team h4 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 24px;
     text-transform: none;
     font-weight: 500;
@@ -11824,7 +11824,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     padding-bottom: 5px;
 }
 .about-our-team p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 15px;
     font-weight: 300;
     color: #696969;
@@ -11860,7 +11860,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
     margin: 0;
     color: #2ebd7f;
     text-transform: uppercase;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
 }
 .about-our-team img {
@@ -11884,7 +11884,7 @@ ul.list-posts.recent-posts > li .news-info h2 a:hover {
 }
 .about-our-team .contact-content li p {
     color: #777;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
     text-align: left;
     font-size: 14px;
@@ -12096,7 +12096,7 @@ h4.title-block {
     color: #fff;
 }
 .no-margin h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 10px 0;
@@ -12107,7 +12107,7 @@ h4.title-block {
 }
 .label-title p {
     text-transform: none;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 24px;
     color: #2a2a2a;
     font-weight: 400;
@@ -12135,32 +12135,32 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-1 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
 .shortcodes-heading-style-1 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
 .shortcodes-heading-style-1 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
 .shortcodes-heading-style-1 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
 .shortcodes-heading-style-1 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
 .shortcodes-heading-style-1 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
 }
@@ -12170,27 +12170,27 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-2 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 .shortcodes-heading-style-2 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 .shortcodes-heading-style-2 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 .shortcodes-heading-style-2 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 .shortcodes-heading-style-2 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 .shortcodes-heading-style-2 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
 }
 
@@ -12199,7 +12199,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-3 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12213,7 +12213,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-3 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12227,7 +12227,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-3 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12241,7 +12241,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-3 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12255,7 +12255,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-3 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12269,7 +12269,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-3 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12288,7 +12288,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-4 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12310,7 +12310,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-4 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12332,7 +12332,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-4 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12354,7 +12354,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-4 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12376,7 +12376,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-4 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12398,7 +12398,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-4 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     position: relative;
     padding-bottom: 10px;
@@ -12425,7 +12425,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-5 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12439,7 +12439,7 @@ h4.title-block {
     display: block;
 }
 .shortcodes-heading-style-5 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12453,7 +12453,7 @@ h4.title-block {
     display: block;
 }
 .shortcodes-heading-style-5 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12467,7 +12467,7 @@ h4.title-block {
     display: block;
 }
 .shortcodes-heading-style-5 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12481,7 +12481,7 @@ h4.title-block {
     display: block;
 }
 .shortcodes-heading-style-5 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12495,7 +12495,7 @@ h4.title-block {
     display: block;
 }
 .shortcodes-heading-style-5 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
 }
@@ -12514,7 +12514,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-6 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12529,7 +12529,7 @@ h4.title-block {
     border-top: 4px solid #2ebd7f;
 }
 .shortcodes-heading-style-6 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12544,7 +12544,7 @@ h4.title-block {
     border-top: 3px solid #2ebd7f;
 }
 .shortcodes-heading-style-6 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12559,7 +12559,7 @@ h4.title-block {
     border-top: 2px solid #2ebd7f;
 }
 .shortcodes-heading-style-6 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12574,7 +12574,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-6 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12589,7 +12589,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-6 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
 }
@@ -12609,7 +12609,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-7 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: right;
     overflow: hidden;   
@@ -12625,7 +12625,7 @@ h4.title-block {
     border-top: 4px solid #2ebd7f;
 }
 .shortcodes-heading-style-7 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: right;
     overflow: hidden;
@@ -12641,7 +12641,7 @@ h4.title-block {
     border-top: 3px solid #2ebd7f;
 }
 .shortcodes-heading-style-7 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: right;
     overflow: hidden;
@@ -12657,7 +12657,7 @@ h4.title-block {
     border-top: 2px solid #2ebd7f;
 }
 .shortcodes-heading-style-7 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: right;
     overflow: hidden;
@@ -12673,7 +12673,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-7 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
     text-align: right;
@@ -12689,7 +12689,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-7 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: right;
     overflow: hidden;
@@ -12710,7 +12710,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-8 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     overflow: hidden;   
@@ -12736,7 +12736,7 @@ h4.title-block {
     border-top: 4px solid #2ebd7f;
 }
 .shortcodes-heading-style-8 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     overflow: hidden;
@@ -12762,7 +12762,7 @@ h4.title-block {
     border-top: 3px solid #2ebd7f;
 }
 .shortcodes-heading-style-8 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     overflow: hidden;
@@ -12788,7 +12788,7 @@ h4.title-block {
     border-top: 2px solid #2ebd7f;
 }
 .shortcodes-heading-style-8 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     overflow: hidden;
@@ -12814,7 +12814,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-8 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     overflow: hidden;
     text-align: center;
@@ -12840,7 +12840,7 @@ h4.title-block {
     border-top: 1px solid #2ebd7f;
 }
 .shortcodes-heading-style-8 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     overflow: hidden;
@@ -12871,7 +12871,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-9 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -12974,7 +12974,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-010 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -12991,7 +12991,7 @@ h4.title-block {
     position: absolute;
 }
 .shortcodes-heading-style-010 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13001,7 +13001,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-11 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -13021,7 +13021,7 @@ h4.title-block {
     color: #333333;
 }
 .shortcodes-heading-style-11 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13031,7 +13031,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-12 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -13051,7 +13051,7 @@ h4.title-block {
     color: #008080;
 }
 .shortcodes-heading-style-12 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13061,7 +13061,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-13 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -13081,7 +13081,7 @@ h4.title-block {
     color: #ff6666;
 }
 .shortcodes-heading-style-13 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13091,7 +13091,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-14 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -13111,7 +13111,7 @@ h4.title-block {
     color: #ffd700;
 }
 .shortcodes-heading-style-14 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13121,7 +13121,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-15 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     position: relative;
@@ -13141,7 +13141,7 @@ h4.title-block {
     color: #666666;
 }
 .shortcodes-heading-style-15 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 500;
      text-align: left;
 }
@@ -13151,7 +13151,7 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-16 h1 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     text-align: center;
@@ -13178,7 +13178,7 @@ h4.title-block {
     background: url(images/dotted.png);
 }
 .shortcodes-heading-style-16 h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     text-align: center;
@@ -13205,7 +13205,7 @@ h4.title-block {
     background: url(images/dotted.png);
 }
 .shortcodes-heading-style-16 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-align: center;
     text-transform: none;
@@ -13232,7 +13232,7 @@ h4.title-block {
     background: url(images/dotted.png);
 }
 .shortcodes-heading-style-16 h4 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     text-align: center;
@@ -13259,7 +13259,7 @@ h4.title-block {
     background: url(images/dotted.png);
 }
 .shortcodes-heading-style-16 h5 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     overflow: hidden;
@@ -13286,7 +13286,7 @@ h4.title-block {
     background: url(images/dotted.png);
 }
 .shortcodes-heading-style-16 h6 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     text-align: center;
@@ -13318,13 +13318,13 @@ h4.title-block {
 ========================================*/
 
 .shortcodes-heading-style-17 h3 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300 !important;
     text-transform: none;
     text-align: center;
 }
 .shortcodes-heading-style-17 p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
 }
 .shortcodes-heading-style-17 span {
     background: #2ebd7f;
@@ -13344,7 +13344,7 @@ h4.title-block {
     list-style-type: none;
 }
 .shortcodes-icons ul li {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     vertical-align: middle;
     text-align: left;
@@ -13388,7 +13388,7 @@ h4.title-block {
     margin-bottom: 20px;
 }
 .icon-box .content-box p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     padding-bottom: 20px;
 }
 .icon-box .content-box i {
@@ -14949,7 +14949,7 @@ hr.lg-size {
 }
 
 .filter-projects a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     padding: 5px 10px;
     display: block;
     font-weight: 500;
@@ -15080,7 +15080,7 @@ hr.lg-size {
 .content p {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 600;
     padding: 0;
     margin: 0;
@@ -15217,18 +15217,18 @@ hr.lg-size {
 .info-box h4 {
     margin-top: 0;
     line-height: 1;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     text-transform: uppercase;
 }
 .info-box h5 {
     margin-top: 40px;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 600;
     text-transform: uppercase;
 }
 .info-box p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #777;
@@ -15240,7 +15240,7 @@ hr.lg-size {
   margin: 0 0 20px;
   position: relative;
   
-  font-family: 'Raleway',Arial,sans-serif;
+  font-family: 'Roboto',Arial,sans-serif;
   font-size: 14px;
   line-height: 1.3;
   color: #777;
@@ -15272,7 +15272,7 @@ hr.lg-size {
     margin: 0;
     display: inline-block;
     padding-top: 20px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #696969;
 }
@@ -15354,7 +15354,7 @@ h4.ot-btn {
 }
 .pricing-style-1 h2 {
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
 }
 .pricing-style-1 .price-table-wrapper-style-1 {
     background: #fff;
@@ -15365,7 +15365,7 @@ h4.ot-btn {
 }
 .pricing-style-1 .price-table-wrapper-style-1 .price-table-title h3 {
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 30px;
     font-weight: 700;
 }
@@ -15378,7 +15378,7 @@ h4.ot-btn {
 }
 .pricing-style-1 .price-table-wrapper-style-1 .price-content span {
     font-size: 20px;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     color: #fff;
     text-align: center;
     display: block;
@@ -15391,7 +15391,7 @@ h4.ot-btn {
 }
 .pricing-style-1 .price-table-wrapper-style-1 .table-content .table-list li {
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     padding: 10px 0;
     border-bottom: 1px solid #e4e4e4;
 }
@@ -15406,7 +15406,7 @@ h4.ot-btn {
 .pricing-style-1 .price-table-wrapper-style-1 .price-footer a {
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Raleway',Arial ,sans-serif;
+    font-family: 'Roboto',Arial ,sans-serif;
     text-align: center;
     display: block;
 }
@@ -15448,7 +15448,7 @@ h4.ot-btn {
 }
 
 .top-plan .name-plan {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 600;
     font-size: 18px;
     margin-top: 20px;
@@ -15459,10 +15459,10 @@ h4.ot-btn {
     padding-bottom: 90px;
 }
 .content-inner .typography p {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
 }
 .content-inner .typography h2 {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     text-transform: none;
 }
@@ -15676,13 +15676,13 @@ span.text-family {
 }
 .page404.transparent .pri-color {
     color: #fff;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-size: 30px;
     font-weight: 700;
 }
 .page404.transparent p {
     color: #fff;
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 300;
     font-size: 16px;
 }
@@ -15699,7 +15699,7 @@ span.text-family {
     line-height: 2;
 }
 .page-default h4 {
-    font-family: 'Raleway',Arial , sans-serif;
+    font-family: 'Roboto',Arial , sans-serif;
     font-size: 25px;
     font-weight: 300;
     padding: 0;
@@ -15720,7 +15720,7 @@ span.text-family {
     display: inline;
     padding-right: 10px;
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 600;
 }
 .page-default .d-content i {
@@ -15784,7 +15784,7 @@ span.text-family {
 .pro-details .single-rating .single-price {
     font-size: 34px;
     color: #2ebd7f;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
 
@@ -15810,7 +15810,7 @@ span.text-family {
     padding: 0;
 }
 .pro-details .single-rating .follow-us p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 16px;
 }
 .pro-details .single-rating .follow-us ul {
@@ -15827,7 +15827,7 @@ span.text-family {
 .pro-details .cat {
     margin-top: 20px;
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 
 .pro-details .cat a {
@@ -16103,21 +16103,21 @@ table.fully .color {
     font-weight: 700;
     color: #2ebd7f;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .slider1 p {
     font-size: 30px;
     font-weight: 700;
     color: #fff;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .slider2 h3 {
     font-size: 60px;
     font-weight: 700;
     color: #444;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .slider2 h3 span {
@@ -16132,24 +16132,24 @@ table.fully .color {
     font-size: 40px;
 }
 .slider1.apps-slide p {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 300;
     color: #fff;
 }
 .slider1.home5-slider h2 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     color: #fff;
     font-size: 40px;
 }
 .slider1.home5-slider h3 {
-    font-family: 'Raleway',Arial,sans-serif;
+    font-family: 'Roboto',Arial,sans-serif;
     font-weight: 700;
     color: #fff;
     font-size: 60px;
     letter-spacing: -1px;
 }
 .slider1.home5-slider p {
-    font-family: 'Raleway', Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     color: #fff !important;
     font-weight: 300;
 }
@@ -16167,7 +16167,7 @@ table.fully .color {
     padding-right: 20px;
     padding-bottom: 10px;
     float: left;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .shortcodes-animations {
     float: left;
@@ -16281,7 +16281,7 @@ table.fully .color {
     padding-right: 10px;
 }
 .list-icons li {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     padding-bottom: 10px;
     text-align: left;
@@ -16342,7 +16342,7 @@ table.fully .color {
     padding-left: 10px;
 }
 .list-icons-reverse li {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     padding-bottom: 10px;
     text-align: right;
@@ -16408,13 +16408,13 @@ table.fully .color {
 }
 .list-decimal {
     list-style-type: decimal;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
 }
 .list-circle {
     list-style-type: circle;
     display: block;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16423,7 +16423,7 @@ table.fully .color {
 }
 .list-upper-roman {
     list-style-type: upper-roman;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16432,7 +16432,7 @@ table.fully .color {
 }
 .list-desc {
     list-style-type: disc;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16441,7 +16441,7 @@ table.fully .color {
 }
 .list-lower-latin {
     list-style-type: lower-latin;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16450,7 +16450,7 @@ table.fully .color {
 }
 .list-decimal-leading-zero {
     list-style-type: decimal-leading-zero;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16459,7 +16459,7 @@ table.fully .color {
 }
 .list-lower-roman {
     list-style-type:lower-roman;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16468,7 +16468,7 @@ table.fully .color {
 }
 .list-upper-alpha {
     list-style-type:upper-alpha;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 700;
     color: #2ebd7f;
 }
@@ -16476,7 +16476,7 @@ table.fully .color {
     color: #777;
 }
 .list-unstyled-style {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 400;
     color: #777;
 }
@@ -16527,14 +16527,14 @@ table.fully .color {
 }
 .testimonials span.testimonials-name {
     color: #2ebd7f;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 16px;
     font-weight: 600;
     margin: 10px 0 0px;
 }
 .testimonials span.testimonials-post {
     color: #777;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-size: 13px;
 }
 .testimonials.quote i {
@@ -16682,7 +16682,7 @@ table.fully .color {
 .testimonials.style-8 p {
     text-align: center;
     font-size: 14px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     color: #777;
 }
@@ -16709,7 +16709,7 @@ table.fully .color {
     padding:  10px 10px;
 }
 .testimonials.style-9 p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #777;
 }
 .testimonials.style-9 blockquote:before {
@@ -16744,7 +16744,7 @@ table.fully .color {
     margin-bottom: 5px;
 }
 .progress-area p {
-    font-family: 'Raleway' , Arial , sans-serif;
+    font-family: 'Roboto' , Arial , sans-serif;
     margin-top: 10px;
 }
 .border-bot-1 {
@@ -16761,7 +16761,7 @@ table.fully .color {
 }
 .download_icon h2 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     margin-top: 0;
 }
@@ -16774,7 +16774,7 @@ table.fully .color {
 }
 .download_icon p {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
     margin-bottom: 30px;
 }
@@ -16902,7 +16902,7 @@ right connector from last child*/
   padding:0;
   list-style:none;
   color:#777;
-  font-family: 'Raleway'  , sans-serif;
+  font-family: 'Roboto'  , sans-serif;
   position:relative;
   font-weight: 500;
 }
@@ -16960,7 +16960,7 @@ right connector from last child*/
     text-transform: none;
     font-size: 30px;
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .medical-our-Services .service-medical {
     padding: 30px 40px;
@@ -16973,12 +16973,12 @@ right connector from last child*/
     text-transform: none;
     font-size: 18px;
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .medical-our-Services .service-medical p {
     text-transform: none;
     text-align: center;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .medical-our-Services .service-medical .more-center {
     text-align: center;
@@ -16989,7 +16989,7 @@ right connector from last child*/
     margin-bottom: -40px;
 }
 .medical-our-Services .service-medical a {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     background: #003366;
     color: #fff;
     padding: 5px 15px;
@@ -17019,7 +17019,7 @@ right connector from last child*/
     width: 100%;
 }
 .medical-why-choose h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     padding-bottom: 10px;
 }
@@ -17045,7 +17045,7 @@ right connector from last child*/
 }
 .medical-features .features-boxes h2 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-family: 300;
     font-size: 20px;
     text-transform: none;
@@ -17058,7 +17058,7 @@ right connector from last child*/
 }
 .medical-features .features-boxes li {
     display: inline-block;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 300;
     width: 100%;
     color: #fff;
@@ -17070,7 +17070,7 @@ right connector from last child*/
     font-size: 24px;
 }
 .medical-features .features-boxes p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
     color: #fff;
 }
@@ -17114,12 +17114,12 @@ right connector from last child*/
     margin: 0;
 }
 .howItWorks .howItWorks-content h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 26px;
 }
 .howItWorks .howItWorks-content p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 14px;
 }
@@ -17130,7 +17130,7 @@ right connector from last child*/
     padding: 0 5px;
 }
 .howItWorks .howItWorks-content .howItWorks-info h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 14px;
     margin: 0;
@@ -17183,13 +17183,13 @@ right connector from last child*/
     padding: 160px 0;
 }
 .apps-feature .apps-feature-one h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 40px;
     vertical-align: middle;
 }
 .apps-feature .apps-feature-one p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 16px;
 }
@@ -17216,7 +17216,7 @@ right connector from last child*/
 }
 .apps-video .apps-videolink h2 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -17244,12 +17244,12 @@ right connector from last child*/
 ===============================================*/
 
 .screenshots p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     margin-bottom: 40px;
 }
 .screenshots h2 {
     color: #111;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 34px;
     margin: 0;
@@ -17268,12 +17268,12 @@ right connector from last child*/
     margin-bottom: 40px;
 }
 .apps-price .section-title h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 32px;
 }
 .apps-price .section-title p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .single-pricing {
     background: #fff none repeat scroll 0 0;
@@ -17306,7 +17306,7 @@ right connector from last child*/
 }
 .single-pricing h4 {
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: uppercase;
 }
 .single-pricing ul {
@@ -17408,7 +17408,7 @@ right connector from last child*/
 }
 .apps-testimonials p {
     margin-bottom: 20px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 
 /* ------------------------------
@@ -17503,7 +17503,7 @@ right connector from last child*/
     padding: 0;
 }
 .coffee-title h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     color: #d3a662;
     text-transform: none;
     margin: 0;
@@ -17511,7 +17511,7 @@ right connector from last child*/
     text-align: center;
 }
 .coffee-title p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -17523,7 +17523,7 @@ right connector from last child*/
     padding: 0;
 }
 .our-story h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 20px;
     color: #111;
     text-transform: none;
@@ -17532,7 +17532,7 @@ right connector from last child*/
     margin-bottom: 20px;
 }
 .our-story p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     margin: 0;
     padding: 0;
     margin-bottom: 20px;
@@ -17556,7 +17556,7 @@ right connector from last child*/
     padding: 0;
 }
 .coffee-content h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-size: 14px;
     color: #666;
     margin: 0;
@@ -17649,13 +17649,13 @@ right connector from last child*/
 .service-content h3 {
     font-size: 20px;
     color: #d4a762;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     margin-bottom: 10px;
     text-transform: capitalize;
 }
 .service-content p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
 .single-service {
@@ -17755,13 +17755,13 @@ right connector from last child*/
     position: absolute;
 }
 .coffee-reservation .section-title h2 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
 }
 .coffee-reservation .section-title p {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #fff;
     text-align: center;
     margin: 0;
@@ -17887,7 +17887,7 @@ right connector from last child*/
 }
 .comment-form .coffee-form-control {
     font-size: 14px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: 12px 2px;
 }
 .section-divider {
@@ -17907,7 +17907,7 @@ right connector from last child*/
     padding: 20px 0 50px 0;
 }
 .team-section-v3 .main-heading h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 26px;
     text-align: center;
@@ -17916,7 +17916,7 @@ right connector from last child*/
 }
 .team-section-v3 .main-heading p {
     width: 40%;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-align: center;
     margin: 0 auto;
     color: #777;
@@ -18041,7 +18041,7 @@ right connector from last child*/
     
 }
 h2.main-heading {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
     font-size: 42px;
     color: #d3a662;
@@ -18060,7 +18060,7 @@ h2.main-heading {
 }
 .price-menu-list li>p {
     margin-bottom: 8px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     opacity: .6;
     color: #fff;
 }
@@ -18081,7 +18081,7 @@ h2.main-heading {
     border-color: #fff !important;
 }
 h2.font-nothing-you-could-do {
-    font-family: 'Raleway', cursive!important;
+    font-family: 'Roboto', cursive!important;
     color: #fff;
     text-transform: none;
     font-weight: 400!important
@@ -18095,7 +18095,7 @@ h2.font-nothing-you-could-do {
     margin: 0;
 }
 .about-wrapper h2 {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     text-transform: none;
 }
 .icon-bx-wraper {
@@ -18133,7 +18133,7 @@ h2.font-nothing-you-could-do {
     padding: 0;
     text-transform: none;
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .icon-bx-wraper:hover {
     
@@ -18167,13 +18167,13 @@ h2.font-nothing-you-could-do {
 }
 .tg-theme-heading h2 {
     color: #fff;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
 }
 .tg-theme-heading h2 span {
     color: #fdc716;
 }
 .tg-description p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
     color: #fff;
 }
@@ -18203,7 +18203,7 @@ h2.font-nothing-you-could-do {
     padding-bottom: 10px;
 }
 .wrapper-txtInfo p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 400;
     color: #777;
 }
@@ -18314,7 +18314,7 @@ h2.font-nothing-you-could-do {
     padding: 0;
     margin: 0;
     font-size: 18px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 700;
     text-transform: none;
     text-align: left;
@@ -18325,7 +18325,7 @@ h2.font-nothing-you-could-do {
     margin: 0;
     color: #777;
     font-size: 16px;
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 500;
     margin-top: 3px;
     text-transform: none;
@@ -18468,7 +18468,7 @@ h2.font-nothing-you-could-do {
     padding: 0;
 }
 .wrapper-tour .img-tour .img-content .txt-info p {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Roboto' , sans-serif;
     font-weight: 300;
     padding: 0;
     color: #fff;
@@ -18623,7 +18623,7 @@ footer .footer-widget {
     overflow: hidden;
 }
 footer .footer-widget p {
-   font-family: "Raleway",,sans-serif;
+   font-family: "Roboto",,sans-serif;
    font-weight: 400;
    padding-top: 10px;
    text-align: justify;
@@ -18632,7 +18632,7 @@ footer .footer-widget h4 {
     color: #fff;
     font-size: 18px;
     margin-bottom: 0px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     position: relative;
     padding-bottom: 10px;
     margin-bottom: 10px;
@@ -18684,11 +18684,11 @@ footer .footer-widget ul .right-post {
 
 footer .footer-widget ul .right-post p {
     font-size: 14px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
 }
 footer .footer-widget .btn-readmore {
     font-size: 14px;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     text-transform: uppercase !important;
 }
 footer .footer-widget .btn-readmore i {
@@ -18739,11 +18739,11 @@ footer .footer-widget .contact li:last-child {
     padding-bottom: 10px;
 }
 footer .twitter-feed {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
 }
 footer .twitter-feed strong {
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     color: #fff;
 }
@@ -18767,7 +18767,7 @@ footer .twitter-feed i {
     vertical-align: top;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     color: #777;
     margin-bottom: 10px;
 }
@@ -18791,7 +18791,7 @@ footer .copyright {
 
 footer .copyright p {
     margin-bottom: 0;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     font-weight: 300;
     font-size: 14px;
 }
@@ -19584,7 +19584,7 @@ footer.footer-color9 .copyright .back-top:hover a {
 
 .form-subcribe-footer input {
     background-color: #e4e4e4;
-    font-family: "Raleway",Arial,sans-serif;
+    font-family: "Roboto",Arial,sans-serif;
     height: 30px;
     padding: 0;
     padding-left: 20px;
@@ -20850,7 +20850,7 @@ footer.footer-color9 .copyright .back-top:hover a {
     }
     .section-default h2 {
         padding-top: 0;
-        font-family: 'Raleway' , sans-serif;
+        font-family: 'Roboto' , sans-serif;
     }
     .section-default p {
         font-size: 14px;
