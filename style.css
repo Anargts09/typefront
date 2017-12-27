@@ -3307,7 +3307,7 @@ h2.text-heading.coffee-color:after {
 }
 .header-semi-transparent .main-bar {
     background: rgba(0,0,0,0.5);
-    z-index: 99999;
+    z-index: 199;
     position: absolute;
     width: 100%;
 }
