@@ -4305,6 +4305,7 @@ h2.text-heading.coffee-color:after {
     border: 1px solid #f1f1f1;
     border-top: none;
     padding: 10px 15px;
+    background: #FFF;
 }
 .block-section-4 .blog .blog-content .post-meta {
     margin: 0;
